@@ -8,14 +8,23 @@ The dataset includes various attributes that help in predicting customer churn. 
 
 CustomerID – A unique identifier for each customer.
 Name – Customer's full name.
+
 Age – The age of the customer.
+
 Gender – Customer’s gender (Male or Female).
+
 Location – The geographical region of the customer (Houston, Los Angeles, Miami, Chicago, New York).
+
 Subscription_Length_Months – The duration (in months) the customer has been subscribed.
+
 Monthly_Bill – The monthly charge for the customer’s subscription.
+
 Total_Usage_GB – The total data usage by the customer in gigabytes.
+
 Churn – A binary label indicating if the customer has churned (1 for churn, 0 for retained).
+
 Technology Stack
+
 Programming Language:
 
 Python – The primary language used for data analysis, modeling, and implementing machine learning algorithms due to its extensive ecosystem of libraries.
